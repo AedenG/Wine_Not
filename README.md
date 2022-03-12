@@ -2,7 +2,7 @@
 
 ## Team Responsibilities
 
-Square = Aeden 
-Triangle = Hallie and Lara 
-X = Daryl 
-Circle = Marcus
+### Square = Aeden 
+### Triangle = Hallie and Lara 
+### X = Daryl 
+### Circle = Marcus

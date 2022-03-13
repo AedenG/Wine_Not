@@ -15,6 +15,7 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 - Triangle: Hallie and Lara
 - Circle: Marcus
 - X: Daryl
-
-
+<p align="center">
+   <img src="https://github.com/AedenG/Wine_Not/blob/main/ps5_group_label.png" width="520" height="380">
+</p>
 

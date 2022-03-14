@@ -1,0 +1,104 @@
+CREATE TABLE combined_wine (
+	 wine_type INT NOT NULL,
+     fixed_acid VARCHAR NOT NULL,
+     volatile_acid VARCHAR NOT NULL,
+     citric_acid VARCHAR NOT NULL,
+     residual_sugar VARCHAR NOT NULL,
+     chlorides VARCHAR NOT NULL,
+	 free_sulfur_dioxide VARCHAR NOT NULL,
+	 total_sulfur_dioxide VARCHAR NOT NULL,
+	 density VARCHAR NOT NULL,
+	 pH VARCHAR NOT NULL,
+	 sulphates VARCHAR NOT NULL,
+	 alcohol VARCHAR NOT NULL,
+	 quality INT NOT NULL);
+	 
+CREATE TABLE binary_red_wine (
+	 wine_type INT NOT NULL,
+     fixed_acid VARCHAR NOT NULL,
+     volatile_acid VARCHAR NOT NULL,
+     citric_acid VARCHAR NOT NULL,
+     residual_sugar VARCHAR NOT NULL,
+     chlorides VARCHAR NOT NULL,
+	 free_sulfur_dioxide VARCHAR NOT NULL,
+	 total_sulfur_dioxide VARCHAR NOT NULL,
+	 density VARCHAR NOT NULL,
+	 pH VARCHAR NOT NULL,
+	 sulphates VARCHAR NOT NULL,
+	 alcohol VARCHAR NOT NULL,
+	 quality INT NOT NULL);
+	 
+CREATE TABLE binary_white_wine (
+	 wine_type INT NOT NULL,
+     fixed_acid VARCHAR NOT NULL,
+     volatile_acid VARCHAR NOT NULL,
+     citric_acid VARCHAR NOT NULL,
+     residual_sugar VARCHAR NOT NULL,
+     chlorides VARCHAR NOT NULL,
+	 free_sulfur_dioxide VARCHAR NOT NULL,
+	 total_sulfur_dioxide VARCHAR NOT NULL,
+	 density VARCHAR NOT NULL,
+	 pH VARCHAR NOT NULL,
+	 sulphates VARCHAR NOT NULL,
+	 alcohol VARCHAR NOT NULL,
+	 quality INT NOT NULL);
+	 
+CREATE TABLE labeled_red_wine (
+	 wine_type VARCHAR NOT NULL,
+     fixed_acid VARCHAR NOT NULL,
+     volatile_acid VARCHAR NOT NULL,
+     citric_acid VARCHAR NOT NULL,
+     residual_sugar VARCHAR NOT NULL,
+     chlorides VARCHAR NOT NULL,
+	 free_sulfur_dioxide VARCHAR NOT NULL,
+	 total_sulfur_dioxide VARCHAR NOT NULL,
+	 density VARCHAR NOT NULL,
+	 pH VARCHAR NOT NULL,
+	 sulphates VARCHAR NOT NULL,
+	 alcohol VARCHAR NOT NULL,
+	 quality INT NOT NULL);
+	 
+CREATE TABLE labeled_white_wine (
+	 wine_type VARCHAR NOT NULL,
+     fixed_acid VARCHAR NOT NULL,
+     volatile_acid VARCHAR NOT NULL,
+     citric_acid VARCHAR NOT NULL,
+     residual_sugar VARCHAR NOT NULL,
+     chlorides VARCHAR NOT NULL,
+	 free_sulfur_dioxide VARCHAR NOT NULL,
+	 total_sulfur_dioxide VARCHAR NOT NULL,
+	 density VARCHAR NOT NULL,
+	 pH VARCHAR NOT NULL,
+	 sulphates VARCHAR NOT NULL,
+	 alcohol VARCHAR NOT NULL,
+	 quality INT NOT NULL);
+	 
+CREATE TABLE red_wine (
+	 fixed_acid VARCHAR NOT NULL,
+     volatile_acid VARCHAR NOT NULL,
+     citric_acid VARCHAR NOT NULL,
+     residual_sugar VARCHAR NOT NULL,
+     chlorides VARCHAR NOT NULL,
+	 free_sulfur_dioxide VARCHAR NOT NULL,
+	 total_sulfur_dioxide VARCHAR NOT NULL,
+	 density VARCHAR NOT NULL,
+	 pH VARCHAR NOT NULL,
+	 sulphates VARCHAR NOT NULL,
+	 alcohol VARCHAR NOT NULL,
+	 quality INT NOT NULL);
+	 
+CREATE TABLE white_wine (
+	 fixed_acid VARCHAR NOT NULL,
+     volatile_acid VARCHAR NOT NULL,
+     citric_acid VARCHAR NOT NULL,
+     residual_sugar VARCHAR NOT NULL,
+     chlorides VARCHAR NOT NULL,
+	 free_sulfur_dioxide VARCHAR NOT NULL,
+	 total_sulfur_dioxide VARCHAR NOT NULL,
+	 density VARCHAR NOT NULL,
+	 pH VARCHAR NOT NULL,
+	 sulphates VARCHAR NOT NULL,
+	 alcohol VARCHAR NOT NULL,
+	 quality INT NOT NULL);
+	 
+select * from combined_wine;

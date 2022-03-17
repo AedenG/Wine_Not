@@ -18,3 +18,6 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 <p align="center">
    <img src="https://github.com/AedenG/Wine_Not/blob/main/ps5_group_label.png" width="520" height="380">
 </p>
+
+## Presentation of the Data
+Google Slides: https://docs.google.com/presentation/d/1JBao1ZdLgtQ-TbDuoW-FYv36dGSUo3bWlBLuH3_NfpA/edit?usp=sharing

@@ -22,3 +22,4 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 ## Presentation of the Data
 - [Google Slides](https://docs.google.com/presentation/d/1JBao1ZdLgtQ-TbDuoW-FYv36dGSUo3bWlBLuH3_NfpA/edit?usp=sharing)
 - [Tableau](https://public.tableau.com/app/profile/hallie.powell/viz/Wine_Not/)
+https://public.tableau.com/views/Wine_Not/Sheet8?:language=en-US&:display_count=n&:origin=viz_share_link

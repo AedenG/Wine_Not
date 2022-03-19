@@ -40,3 +40,7 @@ Since logistic regression is used for the prediction of binary outcomes, we felt
 <p align="center">
    <img src="https://user-images.githubusercontent.com/91852495/159138315-1733730c-38e1-47a8-9c79-f6c83f78d535.png" width="520" height="100">
 </p>
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91852495/159138472-0dd7d32c-0c97-430f-96b7-27c4a1bb4ee0.png" width="520" height="400">
+</p>

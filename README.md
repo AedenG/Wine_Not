@@ -38,7 +38,7 @@ Scikit-learn train_test_split was used to split the data into training and testi
 Since logistic regression is used for the prediction of binary outcomes, we felt this was the best machine learning model for our dependent variables- red or white wine. Scikit-learn was used to create a logistic regression model and train the data with the training set. Predictions were made. The logistic regression model was evaluated with an accuracy score of 98.65%.
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/91852495/159138315-1733730c-38e1-47a8-9c79-f6c83f78d535.png" width="520" height="100">
+   <img src="https://user-images.githubusercontent.com/91852495/159141345-ea5845bf-542c-4213-8f89-ce61067ee273.png" width="520" height="400">
 </p>
 
 <p align="center">

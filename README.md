@@ -33,6 +33,8 @@ Two separate red and white wine datasets with identical columns were joined into
 Our independent variable includes the following: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol content, and quality. Our dependent variable is wine type: red or white wine.
 
 ## Results
+
+### Machine Learning Model
 Scikit-learn train_test_split was used to split the data into training and testing sets. It also served to stratify the data. 
 
 Since logistic regression is used for the prediction of binary outcomes, we felt this was the best machine learning model for our dependent variables- red or white wine. Scikit-learn was used to create a logistic regression model and train the data with the training set. Predictions were made. The logistic regression model was evaluated with an accuracy score of 98.65%.
@@ -40,6 +42,9 @@ Since logistic regression is used for the prediction of binary outcomes, we felt
 <p align="center">
    <img src="https://user-images.githubusercontent.com/91852495/159141345-ea5845bf-542c-4213-8f89-ce61067ee273.png" width="520" height="400">
 </p>
+
+### Correlation
+To assist in determining the relationship between our identified independent variables, we created a correlation matrix. We found that there is a negative correlation between wine type and alcohol content, as well as wine type and residual sugar, with a statistically significant p-value. There is a positive correlation between wine type and sulphates with a statistically significant p-value. We created a heatmap based off of this data which illustrates the relationship between variables.
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/91852495/159138472-0dd7d32c-0c97-430f-96b7-27c4a1bb4ee0.png" width="520" height="400">

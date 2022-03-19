@@ -29,10 +29,10 @@ https://public.tableau.com/views/Wine_Not/Sheet8?:language=en-US&:display_count=
 ### Description of the Data
 Two separate red and white wine datasets with identical columns were joined into one CSV dataset. Since data regarding wine is difficult to scrape due to scraping legal restrictions, and wine information is typically restricted by wine companies, the datasets were chosen from Kaggle. These specific datasets were chosen due to the amount of quantitative data that was available for red and white wines. A column was added to identify each wine as a red or white wine. The combined dataset contains 6,497 rows and 13 columns. A database was created using SQL and postgres for the joined dataset. Red wines were labeled as 1. White wines were labeled as 0. The database was read into Jupyter Notebook using Pandas and SQLAlchemy.
 
-### Feature selection & 
+### Feature Selection 
 Our independent variable includes the following: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol content, and quality. Our dependent variable is wine type: red or white wine.
 
+## Results
 Scikit-learn train_test_split was used to split the data into training and testing sets. It also served to stratify the data. 
 
-## Results
 Since logistic regression is used for the prediction of binary outcomes, we felt this was the best machine learning model for our dependent variables- red or white wine. Scikit-learn was used to create a logistic regression model and train the data with the training set. Predictions were made. The logistic regression model was evaluated with an accuracy score of 98.65%.

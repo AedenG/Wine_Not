@@ -28,6 +28,10 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 ### Description of the Data
 Two separate red and white wine datasets with identical columns were joined into one CSV dataset. Since data regarding wine is difficult to scrape due to scraping legal restrictions, and wine information is typically restricted by wine companies, the datasets were chosen from Kaggle. These specific datasets were chosen due to the amount of quantitative data that was available for red and white wines. A column was added to identify each wine as a red or white wine. The combined dataset contains 6,497 rows and 13 columns. A database was created using SQL and postgres for the joined dataset. Red wines were labeled as 1. White wines were labeled as 0. The database was read into Jupyter Notebook using Pandas and SQLAlchemy.
 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91852495/159169651-ab071710-ac70-47d5-b363-68b76afbcfb4.png" width="520" height="400">
+</p>
+
 ### Feature Selection 
 Our independent variable includes the following: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol content, and quality. Our dependent variable is wine type: red or white wine.
 

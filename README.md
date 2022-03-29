@@ -6,6 +6,8 @@ The topic that we have selected is to detect a difference between red and white 
 ## Resources
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
+[Click here to view the data on Kaggle](https://www.kaggle.com/datasets/priankravichandar/wine-quality-data)
+
 ## Communication
 - Slack
 - Zoom 

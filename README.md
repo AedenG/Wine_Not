@@ -16,7 +16,7 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 - Circle: Marcus
 - X: Daryl
 <p align="center">
-   <img src="https://github.com/AedenG/Wine_Not/blob/main/ps5_group_label.png" width="520" height="380">
+   <img src="https://github.com/AedenG/Wine_Not/blob/main/Images/ps5_group_label.png" width="520" height="380">
 </p>
 
 ## Presentation of the Data

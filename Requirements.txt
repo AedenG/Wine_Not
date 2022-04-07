@@ -1,0 +1,87 @@
+attempt.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- sklearn.model_selection import train_test_split
+	- sklearn.linear_model import LogisticRegression
+	- sklearn.metrics import accuracy_score
+
+confusion_matrix.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- sklearn.model_selection import train_test_split
+	- sklearn.linear_model import LogisticRegression
+	- sklearn.metrics import accuracy_score
+	- sklearn.metrics import confusion_matrix, classification_report
+
+correlation_attempt.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- scipy.stats.stats import pearsonr
+
+correlation_heatmap_with_numbers.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- scipy.stats.stats import pearsonr
+	- import seaborn
+
+correlation_heatmap.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- scipy.stats.stats import pearsonr
+	- import seaborn
+
+join.ipynb
+	- import pandas
+
+less_columns.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- import random
+	- sklearn.model_selection import train_test_split
+	- sklearn.linear_model import LogisticRegression
+	- sklearn.metrics import accuracy_score
+
+random_regression.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- import random
+	- sklearn.model_selection import train_test_split
+	- sklearn.linear_model import LogisticRegression
+	- sklearn.metrics import accuracy_score
+
+regression.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- sklearn.model_selection import train_test_split
+	- sklearn.linear_model import LogisticRegression
+	- sklearn.metrics import accuracy_score
+	- 
+
+second_regression.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- sklearn.model_selection import train_test_split
+	- sklearn.linear_model import LogisticRegression
+	- sklearn.metrics import accuracy_score
+
+third_regression.ipynb
+	- import matplotlib.pyplot
+	- import numpy
+	- import pandas
+	- import sqlalchemy
+	- sqlalchemy import create_engine
+	- sklearn.model_selection import train_test_split
+	- sklearn.linear_model import LogisticRegression
+	- sklearn.metrics import accuracy_score
+
+wine_cleaning.ipynb
+	- import pandas

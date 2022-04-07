@@ -56,3 +56,29 @@ To assist in determining the relationship between our identified independent var
    <img src="https://github.com/AedenG/Wine_Not/blob/c16753c08ff416b0401da6f452e14bc5e2e14a88/Images/Correlation_data_with_numbers.png">
 </p>
 
+### Summary
+
+We created a sample of the data due to the overabundance of white wine data compared with red wines in the dataset. We were able to gain the following information from the data:
+
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91852495/162105921-2fa807f8-2a6b-48a8-8bbe-82cc6bac85a4.png" width="520" height="400">
+</p>
+
+
+Red wines do tend to have higher sulphate levels than white wines, though not all the time.
+
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91852495/162105977-fb8d0368-ad92-4dc0-b74f-ec726bfa0f23.png" width="520" height="400">
+</p>
+
+White wines seem to have the higher residual sugar levels than the red wines. This was also confirmed in the heat map with a slightly negative relationship.
+
+
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91852495/162106060-f1ff587f-8e4c-4f95-92bb-e6f0443de568.png" width="520" height="400">
+</p>
+
+There are many wines with low residual sugar levels and lower alcohol levels since Vinho Verde grapes are harvested young. They do not have a chance to ripen longer and produce higher alcohol or sugar levels.

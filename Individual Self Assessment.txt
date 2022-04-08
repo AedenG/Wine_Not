@@ -1,0 +1,18 @@
+# **Individual Self Assessment **
+
+## **Background Breakdown**
+Our goal with this project was to build a Machine Learning model which would be able to differentiate between red and white wines based on a set of physicochemical components including fixed acidity, residual sugars, chlorides, sulphates, and pH. In a surprising twist, our data was a bit too clean – our model was over 95% effective on it’s first run through (98.6%).
+The biggest issues we had aside from the cleanliness of the data involved data collection; most wine makers and distributors keep their information close to the chest. This extended to things such as web scraping, which was legally prohibited by most sellers we could find. Combined with the dearth of datasets which matched our features, there was little more we could do than dive deep into the data itself.
+Another major hinderance was that our dataset contained data from a very specific geographic region, which happened to favor white wine production over red.
+Future explorations in this vein should hone in on these areas, in order to improve the model and expand its usefulness.
+
+## **Self Assessment**
+I think I did a fairy good job overall; I think I pulled my weight and assisted when possible. It did end up feeling lackluster at points though – most likely because we were a bit blindsided by the high accuracy of the first run through our model. I think overall that was good – it reduced the stress of the project while giving us more diverse avenues to explore.
+I’d give myself a 9/10 – I feel like I could have done more, but I’m not sure if I’m biased because I felt like I should have contributed more overall.
+
+## **Team Assessment**
+I loved my team. We worked well together, and we didn’t have issues with delegating or shuffling responsibility; we worked hard, and we listened to one another and boosted ideas we thought could work and examined ideas we were less confident in.
+Aeden was masterful in keeping everything organized and keeping us on track. She was integral to the upkeep and organization of the repo, and she didn’t shy away from doing her share of programming! She was the one who pulled the sample dataset together to use as a comparison with the full data set, and I think it really helped us get a better grasp of what direction we wanted to go with our project.
+Hallie was fantastic for motivation, breaking down the statistical portions, and amplifying all of our ideas into something better. She was also 85-90% responsible for the initial presentation script and was the backbone of getting us through it with flying colors. She has a lot of knowledge about wines, which really pulled more nuance into our project – I think we’d be scratching our heads in confusion a lot more if she didn’t know so much about wine.
+Marcus was our lead for the database and sample visualizations, and he aced it. He was pulling ideas and nuances together and was a cornerstone in building and deploying our database. Additionally, the insights he brought to the table really boosted how we went about laying out our data visually – he dug into the sample data and created interactive and informative charts.
+Daryl took point on our heatmap, making it clear and comprehensible. That, combined with his clear communication kept us on track, and flushed out our project in just the right ways to really bolster it. He and Aeden tag teamed the README, filtering and sorting our project into something comprehensible and cohesive.
